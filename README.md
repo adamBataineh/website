@@ -1,14 +1,13 @@
 # Adam Bataineh — Visual Resume
 
-A minimal, chronological visual resume spanning product, software, investing, and education.
+A minimal, chronological visual resume.
 
 [View the live site](https://adambataineh.github.io/website/)
 
-![Website preview](./og.png)
 
 ## About
 
-The site presents Adam's experience as a compact, interactive timeline. Each entry links directly to the relevant company, institution, or program.
+The site presents my experience as a compact, interactive timeline. Each entry links directly to the relevant company, institution, or program.
 
 ## Built with
 
